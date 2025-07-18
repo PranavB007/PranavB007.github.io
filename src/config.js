@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'pranav.bansal@stonybrook.edu',
+  email: 'pranavbansal007@gmail.com',
 
   socialMedia: [
     {
@@ -17,11 +17,7 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/pranavbansal2000/',
-    },
-    {
-      name: 'Codepen',
-      url: 'Nhttps://codepen.io/Pranav-Bansal-the-styleful',
-    },
+    } 
   ],
 
   navLinks: [

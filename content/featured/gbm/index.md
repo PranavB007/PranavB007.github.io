@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '5'
 title: 'Simulation Modeling for Stock Price'
 cover: './gbm.png'
 external: 'https://github.com/PranavB007/'
