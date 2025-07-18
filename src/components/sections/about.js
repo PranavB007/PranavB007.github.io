@@ -125,8 +125,8 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['C++', 'Python','SQL','Operating System', 'Machine Learning','Computer Vision' ,'PostgreSQL','Data Analysis', 
-  'HTML/CSS', 'OpenCV', 'Tableau', 'MS Office'];
+  const skills = ['C/C++(8+ years)', 'Python','SQL','Operating System', 'Machine Learning','Computer Vision' ,'PostgreSQL','Data Analysis', 
+  'HTML/CSS', 'Node.js', 'Tableau', 'RESTful API', 'Java', 'LLM '];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,15 +136,14 @@ const About = () => {
         <StyledText>
           <div>
           <p>
-            Currently I am pursuing Masters in Computer Science at {' '} <a href="https://www.stonybrook.edu/">Stony Brook University</a>, {' '} 
-            where my coursework envolves Operating System, Data Science, Simulation & Modelling and Advanced Algorithms. Along with my 
-            Masters's I am also Porject Under the Prof. <a href="https://sites.google.com/site/weixusbu2012">Wei Xu</a>{' '} and project is 
-            Explanability of Visusal Transforms 
+            I graduated with Masters in Computer Science at {' '} <a href="https://www.stonybrook.edu/">Stony Brook University</a>, {' '} 
+            where my coursework envolves Operating System, Distributed Systems, Storage Systems, Theory of Databases, Advanced Algorithms and Data Science. Along with my 
+            masters I also did Project on Explanability of Vision Transformers Under Prof. <a href="https://sites.google.com/site/weixusbu2012">Wei Xu</a>{' '}
             </p>
 
             <p>
-            With a core specialization in Software Engineering &amp; Data Sceince, I've worked on impactful
-             project during Software developer internship at {' '}
+            With core specialization in Software Developer &amp; Data Sceince, I've worked on impactful
+             project during Software developer role at {' '}
              <a href="https://www.brysk.ai">Brysk</a> where I build and optimized ETL pipelines and later worked with 
              Computer Vision team to build tracking system for retail store.
             </p>

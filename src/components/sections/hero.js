@@ -69,8 +69,8 @@ const Hero = () => {
       </p>
 
       <p>
-        I am Pranav Bansal, currenlty pursuing Master's in Computer Science at {' '} <a href="https://www.stonybrook.edu/">
-        Stony Brook University</a> {' '} and finished Bachelor in Computer Science & Engineering 
+        I am Pranav Bansal, graduated with Master's in Computer Science at {' '} <a href="https://www.stonybrook.edu/">
+        Stony Brook University</a> {' '} and Bachelor in Computer Science & Engineering 
         from {' '} <a href="https://mait.ac.in/">Maharaja Agrasen Institute of Technology</a> {' '}.
       </p>
 
